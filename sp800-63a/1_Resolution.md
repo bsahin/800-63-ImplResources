@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title:  Identity Evidence
 collection: 63A
@@ -35,3 +35,4 @@ The following table provides examples of evidence from each category of strength
 As SP 800-63A emphasizes, effective identity resolution uses the smallest set of attributes necessary to resolve to a unique individual. Where possible, non-sensitive information should be added to collection if additional attributes are needed to help differentiate users. For example, a population of former military personnel will provide different details and require different resolution data sources than foreign nationals.
 
 Sets and combinations of core and supplemental attributes provide varying levels of effectiveness, sensitivity, availability, and reliability.
+
